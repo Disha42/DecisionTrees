@@ -1,0 +1,8 @@
+For politicians data the training error is: 0.140939597
+the test error is:0.15662650
+
+For education data the training error is:0.195
+the test error is:0.23
+
+Training error is less for politicians data, test error is less for politicians data. 
+Decision tree is more acccurate for politicians data for both training and testing.

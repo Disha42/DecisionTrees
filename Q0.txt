@@ -1,0 +1,1 @@
+I do think Decision trees will work for both politician and education data set. Here the output is discrete, and we have n>p (trainning samples greater than the covariates). We can have disjunctive hypothesis. Also, only combination of a few features would lead to the final decision. We have soft bias of considering simple trees. Thus, I can apply decsion trees to these problems.
